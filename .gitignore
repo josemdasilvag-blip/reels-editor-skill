@@ -1,0 +1,5 @@
+node_modules/
+brand.json
+*.mp4
+*.mov
+*.wav
